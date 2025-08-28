@@ -1,0 +1,29 @@
+{
+    "version": "0.1.15-beta1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.15-beta1/kinde-cli_windows_i386.zip",
+            "bin": [
+                "kinde.exe"
+            ],
+            "hash": "3ce8e138a51e54b83286b81639068574378c2b18957ec4e80077005b206c07e7"
+        },
+        "64bit": {
+            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.15-beta1/kinde-cli_windows_x86_64.zip",
+            "bin": [
+                "kinde.exe"
+            ],
+            "hash": "032cb92e36fab42e459f6cdc1871d4b421cea753745b801cefbf9bd879e052de"
+        },
+        "arm64": {
+            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.15-beta1/kinde-cli_windows_arm64.zip",
+            "bin": [
+                "kinde.exe"
+            ],
+            "hash": "e10acd8f57174ec7aaaca7f61f3a0d60ebc1916369e8ef013e314ace73bf747f"
+        }
+    },
+    "homepage": "https://kinde.com",
+    "license": "MIT",
+    "description": "Kinde CLI utility"
+}
