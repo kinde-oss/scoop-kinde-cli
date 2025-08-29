@@ -1,26 +1,26 @@
 {
-    "version": "0.1.16-beta4",
+    "version": "0.1.16-beta5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.16-beta4/kinde-cli_windows_i386.zip",
+            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.16-beta5/kinde-cli_windows_i386.zip",
             "bin": [
                 "kinde.exe"
             ],
-            "hash": "dab2de42601a9c2e67052985b87bd30c307a2290bc948da1f234890813058cef"
+            "hash": "d427647ef97ff917b24c2839f0932f1b49f047e3d22b7f0645af914e3ff6a450"
         },
         "64bit": {
-            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.16-beta4/kinde-cli_windows_x86_64.zip",
+            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.16-beta5/kinde-cli_windows_x86_64.zip",
             "bin": [
                 "kinde.exe"
             ],
-            "hash": "31fdf4559304135d85ac48d68dc3e9e5d6c06e89a3549badb5afb4d2a5064a9d"
+            "hash": "fae82017b33ac889e035dea2774b22910b35f4c8c1c05f1d41f0bba5cf7d126d"
         },
         "arm64": {
-            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.16-beta4/kinde-cli_windows_arm64.zip",
+            "url": "https://github.com/kinde-oss/kinde-cli/releases/download/v0.1.16-beta5/kinde-cli_windows_arm64.zip",
             "bin": [
                 "kinde.exe"
             ],
-            "hash": "ecb8b0bdb890ceacdad5e947db74207d7e6332c8ebd7035b1f651512f0225ca1"
+            "hash": "843d773014f3161920e75131bb771e4bffb6e05cc90903aa312356a79eb70d39"
         }
     },
     "homepage": "https://kinde.com",
