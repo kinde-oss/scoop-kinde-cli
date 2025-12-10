@@ -1,0 +1,6 @@
+# Default owners for everything
+* @kinde-oss/giants-kinde
+
+# Dependency-related files for this repo (Scoop bucket manifests)
+/*.json @kinde-oss/sdk-engineers
+**/bucket/*.json @kinde-oss/sdk-engineers
